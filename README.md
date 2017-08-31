@@ -1,7 +1,7 @@
 # MVI
 Just a simple collection of resourced related to Model View Intent.
 
-## Genearl MVI Information
+## General MVI Information
 
 [Cycle.js Model-View-Intent](https://cycle.js.org/model-view-intent.html) is an overview of what MVI is. As far as I can tell this is where this term was first used so you can consider it the _birth place_ of Model View Intent until I'm proven wrong.
 
@@ -22,3 +22,5 @@ Just a simple collection of resourced related to Model View Intent.
 [Drawrur](https://github.com/CodyEngel/Drawrur) is a demo MVI app that lets you draw pictures.
 
 [Flax](https://github.com/CodyEngel/Flax) is a now mostly deprecated library that was inspired by the idea of MVI.
+
+[Hello Flax - A Reactive Architecture For Android by Cody Engel](https://hackernoon.com/hello-flax-a-reactive-architecture-for-android-8e56af9c575a)
