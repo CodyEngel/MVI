@@ -19,6 +19,8 @@ Just a simple collection of resourced related to Model View Intent.
 
 [Model-View-Intent-Android](https://github.com/sockeqwe/Model-View-Intent-Android) is a demo MVI app which is now deprecated.
 
+[android-mvi-sample](https://github.com/kanawish/android-mvi-sample) is an example of MVI using the Android Architecture Blueprints todo list project.
+
 [Drawrur](https://github.com/CodyEngel/Drawrur) is a demo MVI app that lets you draw pictures.
 
 [Flax](https://github.com/CodyEngel/Flax) is a now mostly deprecated library that was inspired by the idea of MVI.
